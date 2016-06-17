@@ -1,0 +1,22 @@
+{
+  "name": "connect-appbase",
+  "description": "Appbase session store for Connect",
+  "version": "0.0.1",
+  "author": "Azizul Hakim <azizulfahim2002@gmail.com>",
+  "license": "MIT",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:azizulhakim/connect-appbase.git"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "engines": {
+    "node": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/azizulhakim/connect-appbase/issues"
+  }
+}
